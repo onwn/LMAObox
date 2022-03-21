@@ -1,7 +1,7 @@
 # 한 단어의 반복인 것처럼 발음되는 구, 절, 혹은 완성된 문장
 
 ## Updates
-- '음슴체', 즉 명사형 종결로 된 경우, 이걸 '완성된 문장'이라고 해도 되나? ([참고](https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=88183))
+- '음슴체', 즉 명사형 종결로 된 경우, 이걸 완성된 문장이라고 해도 되나? ([참고](https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=88183))
 - 한 단어의 2회 반복인 것처럼 발음되는 경우만 논의했었는데, 3회 이상인 경우도 생각해보면 재미날 듯함. 추가바람.
 
 ---
