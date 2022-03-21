@@ -63,6 +63,7 @@
 - shell든 Sheldon (조개를 든 [셸든 쿠퍼](https://en.wikipedia.org/wiki/Sheldon_Cooper))
 - 으뜸 으뜸 (으뜸인 심으뜸)
 - 바위 든 Biden
+- 황희 
 
 ## 문제적
 - ......
