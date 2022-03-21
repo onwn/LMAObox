@@ -50,6 +50,8 @@
 - 김 박사는 김밥 싸.
 - 환희 찬 황희찬
 - 황희 찬 황희찬
+- 중요한 중 요한 (Johann the important monk)
+- 영감 영 감 (that old man is quite out of his pace)
 
 ## 여러 언어를 혼용했지만 두 음절 이상을 사용하여 조금은 흥미로운 경우
 - huge 휴지
@@ -65,6 +67,7 @@
 - 으뜸 으뜸 (으뜸인 심으뜸)
 - 바위 든 Biden
 - 황희 찬 황희찬
+- 심영 seem(s) young
 
 ## 문제적
 - ......
