@@ -54,8 +54,6 @@
 - 단어 다 넣어
 - 변 목사는 변 못 싸.
 - 김 박사는 김밥 싸.
-- 환희 찬 황희찬
-- 황희 찬 황희찬
 - 중요한 중 요한 (Johann the important monk)
 - 영감 영 감 (that old man is quite out of his pace)
 
