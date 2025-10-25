@@ -49,6 +49,7 @@ From [나무위키-이항복](https://namu.wiki/w/%EC%9D%B4%ED%95%AD%EB%B3%B5):
 - 친박 친 박
 - 진박, 진 박
 - 산림 살림
+- 산타 산 타 (from [침투부](https://www.youtube.com/watch?v=J0z4Ohe8BHY&t=542s))
 
 ### 두 음절 * 3회
 - (코로나가 심각함에도 불구하고) 모임 모임. 모임?
